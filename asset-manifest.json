@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KanbanTaskManager/static/css/main.7ee43f1f.css",
+    "main.js": "/KanbanTaskManager/static/js/main.2f962ec8.js",
+    "static/media/PlusJakartaSans-VariableFont_wght.ttf": "/KanbanTaskManager/static/media/PlusJakartaSans-VariableFont_wght.91a892b057d3b1e6c20b.ttf",
+    "index.html": "/KanbanTaskManager/index.html",
+    "static/media/Group 15.svg": "/KanbanTaskManager/static/media/Group 15.3d16f5421ab0076794d89017f65e3fea.svg",
+    "main.7ee43f1f.css.map": "/KanbanTaskManager/static/css/main.7ee43f1f.css.map",
+    "main.2f962ec8.js.map": "/KanbanTaskManager/static/js/main.2f962ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee43f1f.css",
+    "static/js/main.2f962ec8.js"
+  ]
+}
